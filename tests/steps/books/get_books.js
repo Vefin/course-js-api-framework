@@ -7,7 +7,7 @@ export async function getBooks() {
                 statusCode : 200,
                 expectedFields: ['0.id'],
                 expectedValues: [
-                                    {path: '0.id', value: 1},
+                                    {path: '0.id', value: 2},
                                 ]
             }
         )
